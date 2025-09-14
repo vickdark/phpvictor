@@ -1,0 +1,11 @@
+Aqui veremos de manera rapida:
+
+    - hola mundo
+    - variables
+    - operadores
+    - estructuras de control
+        * if / else
+        * switch
+        * Bucles (for & while)
+    - funciones
+    - Tarea aplicada
